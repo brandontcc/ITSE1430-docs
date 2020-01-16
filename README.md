@@ -39,3 +39,4 @@ This repository is for documentation only. You do not need to clone this reposit
 
 - `documentation` is where the core documentation for setting up your machine and learning to work with Visual Studio and Github are at. The repository readme files link to this documentation directly.
 - `lessons` is where a list of topics are stored related to stuff we are studying. Eventually it will evolve into detailed documentation or links but for now it is just links to additional information.
+asasd
